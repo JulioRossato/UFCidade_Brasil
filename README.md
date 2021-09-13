@@ -1,2 +1,2 @@
 # UFCidade_Brasil
-Lista de todas as cidades e estados brasileiros.
+Lista de todas as UF e Cidades do Brasil.
